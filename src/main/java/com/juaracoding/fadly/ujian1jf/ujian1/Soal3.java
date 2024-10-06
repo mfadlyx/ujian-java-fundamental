@@ -9,7 +9,6 @@ public class Soal3 {
         boolean isWeekday = true;
         boolean isWeekend = false;
 
-        double discount = 0.0;
         double price = 0.0;
 
         System.out.print("Jumlah Tiket : ");
